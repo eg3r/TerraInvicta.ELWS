@@ -1,0 +1,18 @@
+{
+  "Id": "TerraInvicta.ELWS",
+  "DisplayName": "ELWS Mod",
+  "title": "TerraInvicta.ELWS",
+  "author": "eg3r",
+  "Version": "1.0.0",
+  "Requirements": [],
+  "ManagerVersion": "0.25.0.0",
+  "AssemblyName": "TerraInvicta.ELWS.dll",
+  "EntryMethod": "ELWS.ModInit.Load",
+  "ModURL": "https://github.com/eg3r/TerraInvicta.ELWS",
+  "HomePage": "https://www.nexusmods.com/terrainvicta/mods/[TODO]",
+  "description": "A mod for Terra Invicta aimed at improving certain aspects of the game like performance.",
+  "mod url": "https://steamcommunity.com/sharedfiles/filedetails/?id=[TODO]",
+  "LoadOrder": 0,
+  "TemplatesToConcatArrays": [],
+  "TemplatesToReplace": []
+}
