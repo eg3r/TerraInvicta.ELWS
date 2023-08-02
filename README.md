@@ -5,6 +5,8 @@ A mod for Terra Invicta aimed at improving certain aspects of the game like perf
 ## Features
 * Performance in `tech window` is greatly increased (including `Tech-Tree` reopen), this feature is not using the 
   existing mods "DamnThatTree" approach, a different approach is used.
+* Performance for sharing propellant between fleets based on DV improved (fixed not responsive for large fleets 
+  especially).
 
 ## Upcoming Features
 * Improve other parts and performance
