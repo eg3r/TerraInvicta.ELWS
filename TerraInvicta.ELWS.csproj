@@ -8,8 +8,8 @@
         <LangVersion>11</LangVersion>
         <Company>TerraInvicta.ELWS</Company>
         <Product>TerraInvicta.ELWS</Product>
-        <AssemblyVersion>1.0.0</AssemblyVersion>
-        <FileVersion>1.0.0</FileVersion>
+        <AssemblyVersion>1.1.0</AssemblyVersion>
+        <FileVersion>1.1.0</FileVersion>
         <PackageId>TerraInvicta.ELWS</PackageId>
         <Authors>3ger</Authors>
         <RootNamespace>ELWS</RootNamespace>
