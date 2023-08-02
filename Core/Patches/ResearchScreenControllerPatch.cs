@@ -16,7 +16,7 @@ namespace ELWS.Core.Patches;
 public static class ResearchScreenControllerPatch
 {
     // private static Dictionary<string, TechData> _techCache = new();
-    private static bool isInit = false;
+    private static bool isInit;
 
     private static void EnableFull(this ResearchScreenController cont, bool bEnable)
     {
